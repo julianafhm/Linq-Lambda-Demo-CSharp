@@ -8,7 +8,7 @@
 <p> Monitor,290.00 </p>
 
 <h3> Resultado: </h3>
-<p> Enter full file path: C:\projetos\temp\in.txt.txt </p>
+<p> // Enter full file path: C:\projetos\temp\in.txt </p>
 <p> Avarage price = 420.23 </p>
 <p> Tablet </p>
 <p> Mouse </p>
